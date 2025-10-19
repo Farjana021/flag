@@ -16,3 +16,30 @@
     top: 25px;
     left: 120px;
 }
+.bel1{
+    width: 300px;
+    height: 180px;
+    margin: 0 auto;
+    margin-top: 20px;
+    position: relative;
+}
+.bel2{
+    width: 100px;
+    height: 180px;
+    background-color: black;
+    position: absolute;
+}
+.bel3{
+    width: 100px;
+    height: 180px;
+    background-color: yellow;
+    position: absolute;
+    left: 100px;
+}
+.bel4{
+    width: 100px;
+    height: 180px;
+    background-color: red;
+    position: absolute;
+    right: 0;
+}
