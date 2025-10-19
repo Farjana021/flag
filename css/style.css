@@ -1,0 +1,18 @@
+.one{
+    width: 400px;
+    height: 200px;
+    border: 1px solid;
+    background-color: green;
+    margin: 0 auto;
+    margin-top: 10px;
+    position: relative;
+}
+.two{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 100%;
+    position: absolute;
+    top: 25px;
+    left: 120px;
+}
