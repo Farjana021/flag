@@ -70,3 +70,31 @@
     position: absolute;
     bottom: 0;
 }
+.ned1{
+    width: 300px;
+    height: 180px;
+    margin: 0 auto;
+    margin-top: 20px;
+    position: relative;
+    border: 1px solid;
+}
+.ned2{
+    width: 300px;
+    height: 60px;
+    background-color: red;
+    position: absolute;
+}
+.ned3{
+    width: 300px;
+    height: 60px;
+    background-color: white;
+    position: absolute;
+    top: 60px;
+}
+.ned4{
+    width: 300px;
+    height: 60px;
+    background-color: blue;
+    position: absolute;
+    bottom: 0;
+}
